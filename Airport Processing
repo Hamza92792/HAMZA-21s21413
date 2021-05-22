@@ -1,0 +1,7 @@
+Int i , personal id , family members
+String a[3] , nationality 
+Read personal id , family members , nationality ,
+For ( i=0 ; i<3 ; i++)
+Read i[a]
+End for
+
