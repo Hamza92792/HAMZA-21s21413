@@ -12,5 +12,17 @@ Print “ 60 Omani rial payment “
 Else 
 Print “ you don’t need a visa to enter”
 End if
+Switch (family members)
+Case double:
+Print “you can rent any vehicle you want”
+Case foursome:
+Print “display you have to rent a small van or a bus”
+Case sextuplets:
+End switch
+display “display you have to rent a bus”
+If nationality = Omani then
+Print “no contact is needed” 
+Else “provide your contact info in the form please “
+End if
 
 
