@@ -4,4 +4,13 @@ Read personal id , family members , nationality ,
 For ( i=0 ; i<3 ; i++)
 Read i[a]
 End for
+read visa type 
+if visa type= medical
+Print “ 15 Omani rial payment “
+Elsif visa type = tourism
+Print “ 18 Omani rial payment “
+Else 
+Print “ you don’t need a visa to enter”
+End if
+
 
