@@ -1,5 +1,7 @@
-Int i , personal id , family members
-String a[3] , nationality 
+#airport ticket system
+
+Int i ,int personal id , String family members,
+String a[3] , String nationality 
 Read personal id , family members , nationality ,
 For ( i=0 ; i<3 ; i++)
 Read i[a]
@@ -11,6 +13,6 @@ Elsif visa type = tourism
 Print “ 60 Omani rial payment “
 Else 
 Print “ you don’t need a visa to enter”
-End if
+End if;
 
 
